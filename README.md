@@ -39,7 +39,8 @@ Texto tachado entre ~~virgulillas.~~
     
 [Enlace a Google](http://www.google.es)
 
-![Esto es una imagen](https://lh4.googleusercontent.com/-W8kjgSSW0iY/AAAAAAAAAAI/AAAAAAAAcwM/tgzFU0W75SU/s40-c/photo.jpg) 
+## Imagen
+![imagen](https://lh4.googleusercontent.com/-W8kjgSSW0iY/AAAAAAAAAAI/AAAAAAAAcwM/tgzFU0W75SU/s40-c/photo.jpg) 
 
 | Columna1      | Columna2      | Columna3 |
 | ------------- |:-------------:| --------:|
